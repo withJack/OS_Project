@@ -4,4 +4,4 @@
 3. File System
 4. Unix Shell
 
-See .md files for specific details!
+See *.md* files for specific details!
