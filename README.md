@@ -1,4 +1,4 @@
-# OS_Projects
+# Operating Systems Projects @ Hanyang University
 1. Scheduling
 2. LWP(thread)
 3. File System
